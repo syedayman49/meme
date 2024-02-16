@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+.text {
+    color: white;
+    text-align: center;
+    
+}
+h1{
+    font-family: "Protest Riot", sans-serif;
+}
+img{
+    border: 5px solid white;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 250px;
+}
+.text2{
+    
+}
+
+ 
